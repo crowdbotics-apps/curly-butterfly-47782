@@ -59,6 +59,9 @@ This react_native application was built with Crowdbotics www.crowdbotics.com
 
 This section will show any installed modules you add from the Storyboard Modules section.
 - [react-native-appointment-local](modules/appointment-local)
+- [react-native-contact-us](modules/contact-us)
+- [react-native-chat](modules/chat)
+- [react-native-appointment](modules/appointment)
 
 # Getting started: Frontend
 
